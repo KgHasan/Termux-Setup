@@ -10,7 +10,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Assalamualaikum+Sir+😇;I'm+HASAN-VAU+Here;Please+Follow+My+GitHub+Account;Today+I+will+tell+you+;PRO+RNDM+UID+V3+CLONING+FREE;FF+PUBG+Add+Tools+Free;So+Let's+Enjoy+Everybody+🥱+🤟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Assalamualaikum+Sir+😇;I'm+HASAN-VAU+Here;Please+Follow+My+GitHub+Account;Today+I+will+tell+you+;Tsis a Termux Setup Command+UID+V3+CLONING+FREE;FF+PUBG+Add+Tools+Free;So+Let's+Enjoy+Everybody+🥱+🤟)](https://git.io/typing-svg)
 
 <img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
 
@@ -84,7 +84,7 @@
 
 ## Thanks Use My Termux Setup Command Bro 🥱🤙
                    
-                   ## Love You Vai Brother🤙😭
+  ## Love You Vai Brother🤙😭
  
 
 ### ⚙️   Language & programming
