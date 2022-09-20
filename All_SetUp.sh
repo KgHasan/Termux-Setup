@@ -108,7 +108,7 @@ apt install curl -y
 apt install proot -y
 
 
-figlet -f slant 'Mr_KAUSAR' |lolcat
+figlet -f slant 'HASAN-VAU' |lolcat
 echo
 echo
 echo 
