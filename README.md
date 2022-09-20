@@ -74,7 +74,8 @@
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/kov.balo.cele)
 [![Github](https://img.shields.io/badge/Github-KgHasangreen?style=for-the-badge&logo=github)](https://github.com/KgHasan)
 
-   ## ⚙️  Termux-Setup-Command
+  
+  ## ⚙️  Termux-Setup-Command
 
 # ✓• git clone https://github.com/KgHasan/Termux-Setup.git
 
@@ -84,8 +85,13 @@
 
 ## Thanks Use My Termux Setup Command Bro 🥱🤙
                    
-  ## Love You Vai Brother🤙😭
+  ## Love You Vai Brother🤙🥱
  
+
+
+
+
+
 
 ### ⚙️   Language & programming
  
